@@ -1,6 +1,7 @@
 #include<iostream>
 #include<string>
 #include<cstring>
+	
 using namespace std;
 
 struct student	
@@ -9,6 +10,7 @@ struct student
 	string name;
 	double math,Chinese,English; 
 };
+	
 int main()
 {
 	struct student a[100];
